@@ -1,0 +1,50 @@
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia,  focado em games e em desenvolvimento de jogos cujo o nome é "Super Dev Bros." e tem foco em games e em desenvolvimento de jogos,  com o público alvo de gamers e desenvolvedores iniciantes
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[QUALIDADES]
+
+[CURIOSIDADE 1]
+[CARACTERÍSTICAS]
+
+[CURIOSIDADE 2]
+
+[DESAFIOS]
+
+[CURIOSIDADE 3]
+
+[TÉCNICAS]
+
+[CURIOSIDADE 4]
+
+[RELEVÂNCIA]
+
+[CURIOSIDADE 5]
+
+[INDICAÇÕES]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- crie um nome para o episódio do podcast fazendo uma refência a games, com um subtítulo fazendo um trocadilho com o jogo em questão
+- no bloco [INTRODUÇÃO] substitua por uma introdução que apresente o jogo que será a pauta do episódio fazendo um breve resumo
+- no bloco [QUALIDADES] descreva as qualidades que se destacam do jogo em pauta
+- no bloco [CURIOSIDADE 1] apresente uma curiosidade sobre a estética ou arte do jogo
+- no bloco [CARACTERÍSTICAS] substitua pelas características que se destacam do jogo em questão
+- no bloco [CURIOSIDADE 2] apresente uma curiosidade sobre o enredo do jogo
+- no bloco [DESAFIOS] fale sobre os desafios no desenvolvimento do jogo
+- no bloco [CURIOSIDADE 3] apresente outra curiosidade, agora sobre possíveis interpretações do jogo
+- no bloco [TÉCNICAS] fale sobre as técnicas utilizidas para desenvolver o jogo
+- no bloco [CURIOSIDADE 4] apresente uma curiosidade sobre possíveis inspirações utilizadas pelo jogo
+- no bloco [RELEVÂNCIA] explique a relevância do jogo para o cenário gamer e para os jogadores e desenvolvedores
+- no bloco [CURIOSIDADE 5] apresente uma curiosidade sobre o jogo e seu desenvolvimento
+- no bloco [INDICAÇÕES] indique jogos, livros, séries, filmes e/ou quadrinhos para as pessoas que gostam desse jogo
+- no bloco [FINALIZAÇÃO] substitua por uma despedida com referências gamers e encerre com: “E por hoje é só, Dev Bros! O jogo tá salvo, o checkpoint tá feito. Nos vemos no próximo nível! Até lá e… continue codando e apertando START na criatividade!”
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Super Dev
+- O podcast vai ter vinhetinhas entre os blocos, como se fossem "fases" ou "checkpoints" de um jogo.
+- coloque o nome de uma trilha marcante do jogo como trilha de fundo do podcast
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos

@@ -1,0 +1,9 @@
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em games e em desenvolvimento de jogos e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de games feito por devs, e que tenha algum trocadilho gamer no nome
+
+O podcast vai falar sobre o desenvolvimento de jogos, sempre com um jogo como base do episódio, vai falar sobre as qualidades do jogo, as características, os desafios na criação e desenvolvimento do jogo em questão, sobre as técnicas utilizadas e a relevância do jogo para o mercado e para o desenvolvimento
+
+{REGRAS}
+
+- O nome tenha algum trocadilho gamer com nomes de franquias famosas
+- O nome deve conter alguma palavra forte que remeta a desenvolvimento de games

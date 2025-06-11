@@ -1,0 +1,6 @@
+Imagem de capa do episódio:
+A gamer podcaster interviewing a character from the game The Legend of Zelda: Breath of the Wild, in a setting from the game itself with art style identical to the game. camera settings f/ 8, 1/ 100s, ISO 100, photo processing in 16K, cinematic,--ar 1:1 --v 5.2
+
+
+Imagem do podcast:
+**a retro-styled gaming character in classic podcast studio setup, pixel art aesthetic, chiptune-inspired environment, retro gaming console colors, 8-bit resolution, isometric view angle, Game Boy-era color palette, sprite-based artwork --ar 1:1 --v 5.2**
