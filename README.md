@@ -64,16 +64,16 @@ Ouça em todas as plataformas:
 - Deezer  
 - YouTube  
 
-🔗 Acesse [superdevbros.com](https://superdevbros.com) para mais conteúdos, roteiros dos episódios, links e extras!
+🔗 Acesse [superdevbros.com]() para mais conteúdos, roteiros dos episódios, links e extras!
 
 ---
 
 ## 📬 Contato
 
 - 💌 Email: contato@superdevbros.com  
-- 🐦 Twitter: [@superdevbros](https://twitter.com/superdevbros)  
-- 📸 Instagram: [@superdevbros](https://instagram.com/superdevbros)  
-- 💾 GitHub: [github.com/superdevbros](https://github.com/superdevbros)
+- 🐦 Twitter: [@superdevbros]()  
+- 📸 Instagram: [@superdevbros]()  
+- 💾 GitHub: [github.com/superdevbros]()
 
 ---
 
